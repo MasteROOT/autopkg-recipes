@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads latest Microsoft Bing Ads Editior disk image.</string>
+    <string>Downloads latest Microsoft Bing Ads Editor disk image.</string>
     <key>Identifier</key>
-    <string>com.github.masteroot.download.microsoftbingadseditior</string>
+    <string>com.github.masteroot.download.microsoftbingadseditor</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>MicrosoftBingAdsEditior</string>
+        <string>MicrosoftBingAdsEditor</string>
         <key>DOWNLOAD_URL</key>
         <string>https://aka.ms/baemacproddownload</string>
     </dict>

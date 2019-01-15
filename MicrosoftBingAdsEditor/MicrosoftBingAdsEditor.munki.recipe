@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest Microsoft Bing Ads Editior disk image and imports into Munki.</string>
+    <string>Downloads the latest Microsoft Bing Ads Editor disk image and imports into Munki.</string>
     <key>Identifier</key>
-    <string>com.github.masteroot.munki.microsoftbingadseditior</string>
+    <string>com.github.masteroot.munki.microsoftbingadseditor</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>MicrosoftBingAdsEditior</string>
+        <string>MicrosoftBingAdsEditor</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps/microsoft</string>
+        <string>apps</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
@@ -19,9 +19,9 @@
                 <string>testing</string>
             </array>
             <key>description</key>
-            <string>Microsoft Bing Ads Editior</string>
+            <string>Microsoft Bing Ads Editor</string>
             <key>display_name</key>
-            <string>Microsoft Bing Ads Editior</string>
+            <string>Microsoft Bing Ads Editor</string>
             <key>name</key>
             <string>%NAME%</string>
             <key>unattended_install</key>
@@ -31,7 +31,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.masteroot.download.microsoftbingadseditior</string>
+    <string>com.github.masteroot.download.microsoftbingadseditor</string>
     <key>Process</key>
     <array>
         <dict>

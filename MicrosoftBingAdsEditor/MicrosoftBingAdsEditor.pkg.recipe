@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads latest Microsoft Bing Ads Editior disk image and builds a package.</string>
+    <string>Downloads latest Microsoft Bing Ads Editor disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.masteroot.pkg.microsoftbingadseditior</string>
+    <string>com.github.masteroot.pkg.microsoftbingadseditor</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>MicrosoftBingAdsEditior</string>
+        <string>MicrosoftBingAdsEditor</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.masteroot.download.microsoftbingadseditior</string>
+    <string>com.github.masteroot.download.microsoftbingadseditor</string>
     <key>Process</key>
     <array>
         <dict>

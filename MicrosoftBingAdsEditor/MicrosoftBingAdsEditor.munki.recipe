@@ -19,9 +19,9 @@
                 <string>testing</string>
             </array>
             <key>description</key>
-            <string>Microsoft Bing Ads Editor</string>
+            <string>Microsoft Advertising Editor</string>
             <key>display_name</key>
-            <string>Microsoft Bing Ads Editor</string>
+            <string>Microsoft Advertising Editor</string>
             <key>name</key>
             <string>%NAME%</string>
             <key>unattended_install</key>
